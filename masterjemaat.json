@@ -2,679 +2,582 @@
     "data_jemaat": [
         {
             "id": "1",
-            "id_keluarga": "0",
             "nama": "Yoan K.",
             "jeniskelamin": "Pria",
             "alamat": "Tambahharjo Pati"
         },
         {
             "id": "2",
-            "id_keluarga": "0",
             "nama": "Kristina Dwi S.",
             "jeniskelamin": "Wanita",
             "alamat": "Tambahharjo Pati"
         },
         {
             "id": "3",
-            "id_keluarga": "0",
             "nama": "Nataluna Yoana",
             "jeniskelamin": "Wanita",
             "alamat": "Tambahharjo Pati"
         },
         {
             "id": "4",
-            "id_keluarga": "0",
             "nama": "Ostar Duarta",
             "jeniskelamin": "Pria",
             "alamat": "Tambahharjo Pati"
         },
         {
             "id": "5",
-            "id_keluarga": "0",
             "nama": "Tri Maryani",
             "jeniskelamin": "Wanita",
             "alamat": "Banjarsari Gabus"
         },
         {
             "id": "6",
-            "id_keluarga": "0",
             "nama": "Sanipah",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tambahmulyo Kec. Gabus"
         },
         {
             "id": "7",
-            "id_keluarga": "0",
             "nama": "Setiharti",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tambahmulyo Kec. Gabus"
         },
         {
             "id": "8",
-            "id_keluarga": "0",
             "nama": "Alpinus",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tambahmulyo Kec. Gabus"
         },
         {
             "id": "9",
-            "id_keluarga": "0",
             "nama": "Heni Hayana",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tambahmulyo Kec. Gabus"
         },
         {
             "id": "10",
-            "id_keluarga": "0",
             "nama": "Agus Suprapto",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "11",
-            "id_keluarga": "0",
             "nama": "Riki Saptomi",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "12",
-            "id_keluarga": "0",
             "nama": "Riko Pratansa",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "13",
-            "id_keluarga": "0",
             "nama": "Sunanto",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "14",
-            "id_keluarga": "0",
             "nama": "Hartoyo",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "15",
-            "id_keluarga": "0",
             "nama": "Sariah",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "16",
-            "id_keluarga": "0",
             "nama": "Endri Jatmiko",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "17",
-            "id_keluarga": "0",
             "nama": "Puji Tri Hartutik",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "18",
-            "id_keluarga": "0",
             "nama": "Daniel Arde M.",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "19",
-            "id_keluarga": "0",
             "nama": "Feby",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "20",
-            "id_keluarga": "0",
             "nama": "Sukasmini",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "21",
-            "id_keluarga": "0",
             "nama": "Puji Hartatik",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "22",
-            "id_keluarga": "0",
             "nama": "Indah Kartikawati",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "23",
-            "id_keluarga": "0",
             "nama": "Setyo Haryono",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "24",
-            "id_keluarga": "0",
             "nama": "Sutrisno",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "25",
-            "id_keluarga": "0",
             "nama": "Samsiyah Sajinem",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "26",
-            "id_keluarga": "0",
             "nama": "Naomi Srimurwatiningsih",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "27",
-            "id_keluarga": "0",
             "nama": "Desy Rahmawati",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "28",
-            "id_keluarga": "0",
             "nama": "Shintiamaya Lourdes Isabella",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "29",
-            "id_keluarga": "0",
             "nama": "Edy Sisworo",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "30",
-            "id_keluarga": "0",
             "nama": "Bambang Supriyadi",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "31",
-            "id_keluarga": "0",
             "nama": "Fanda Ariesanti",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "32",
-            "id_keluarga": "0",
             "nama": "Debora Krisudarwati",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "33",
-            "id_keluarga": "0",
             "nama": "Kesia",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "34",
-            "id_keluarga": "0",
             "nama": "Darren",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "35",
-            "id_keluarga": "0",
             "nama": "Rika",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "36",
-            "id_keluarga": "0",
             "nama": "Pujiono",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "37",
-            "id_keluarga": "0",
             "nama": "Winarsih",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "38",
-            "id_keluarga": "0",
             "nama": "Sindy Amelia Agita",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "39",
-            "id_keluarga": "0",
             "nama": "Isangga Perwira",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "40",
-            "id_keluarga": "0",
             "nama": "Yohana Cantikasari",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "41",
-            "id_keluarga": "0",
             "nama": "Fanuel Jovin Satria",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "42",
-            "id_keluarga": "0",
             "nama": "Pujiah Purwaningsih",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "43",
-            "id_keluarga": "0",
             "nama": "Gandrevo",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "44",
-            "id_keluarga": "0",
             "nama": "Paidi",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "45",
-            "id_keluarga": "0",
             "nama": "Dian Fuji Alfiani",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "46",
-            "id_keluarga": "0",
             "nama": "Rusmanto",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "47",
-            "id_keluarga": "0",
             "nama": "Lismiyati",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "48",
-            "id_keluarga": "0",
             "nama": "Lia Christiani",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "49",
-            "id_keluarga": "0",
             "nama": "Wahyuningtyas",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "50",
-            "id_keluarga": "0",
             "nama": "Warsi",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Larangan Kec. Tambakromo"
         },
         {
             "id": "51",
-            "id_keluarga": "0",
             "nama": "Sukini",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Mangunrekso Kec. Tambakromo"
         },
         {
             "id": "52",
-            "id_keluarga": "0",
             "nama": "Sugiman",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "53",
-            "id_keluarga": "0",
             "nama": "Mundriyati",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "54",
-            "id_keluarga": "0",
             "nama": "Arinar Rosidi",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "55",
-            "id_keluarga": "0",
             "nama": "Meirina",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "56",
-            "id_keluarga": "0",
             "nama": "Anadya Bening Mahewari R.",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "57",
-            "id_keluarga": "0",
             "nama": "Yulius Catur Suryanto",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "58",
-            "id_keluarga": "0",
             "nama": "Serlita Yuliana Sinaga",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "59",
-            "id_keluarga": "0",
             "nama": "Elnathan Mesach Ivander",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "60",
-            "id_keluarga": "0",
             "nama": "Gamaliel Alvarendra",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "61",
-            "id_keluarga": "0",
             "nama": "Resmawan",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "62",
-            "id_keluarga": "0",
             "nama": "Yunita Dyah Istanti",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "63",
-            "id_keluarga": "0",
             "nama": "Marisa Ekarenata",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "64",
-            "id_keluarga": "0",
             "nama": "Mario Sean Elishama",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "65",
-            "id_keluarga": "0",
             "nama": "Budiyono",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "66",
-            "id_keluarga": "0",
             "nama": "Kantin",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "67",
-            "id_keluarga": "0",
             "nama": "Kenzo",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tambakromo Kec. Tambakromo"
         },
         {
             "id": "68",
-            "id_keluarga": "0",
             "nama": "Kiyomi",
             "jeniskelamin": "Wanita",
             "alamat": "-"
         },
         {
             "id": "69",
-            "id_keluarga": "0",
             "nama": "Sudaryono",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "70",
-            "id_keluarga": "0",
             "nama": "Mulyani Widayati",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Tanjunganom Kec. Gabus"
         },
         {
             "id": "71",
-            "id_keluarga": "0",
             "nama": "Dwi Ratnasari",
             "jeniskelamin": "Wanita",
             "alamat": "Pati"
         },
         {
             "id": "72",
-            "id_keluarga": "0",
             "nama": "Elvina Dwi Ayunindya",
             "jeniskelamin": "Wanita",
             "alamat": "Pati"
         },
         {
             "id": "73",
-            "id_keluarga": "0",
             "nama": "Prehadi",
             "jeniskelamin": "Pria",
             "alamat": "Pati"
         },
         {
             "id": "74",
-            "id_keluarga": "0",
             "nama": "Natania Emiliana B.",
             "jeniskelamin": "Wanita",
             "alamat": "Pati"
         },
         {
             "id": "75",
-            "id_keluarga": "0",
             "nama": "Sumarini",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "76",
-            "id_keluarga": "0",
             "nama": "Henu Yulirinanto",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "77",
-            "id_keluarga": "0",
             "nama": "Anik Yana Arianti",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "78",
-            "id_keluarga": "0",
             "nama": "Kristian Anggit Wicaksana",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "79",
-            "id_keluarga": "0",
             "nama": "Samuel Melodies Juneanda",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "80",
-            "id_keluarga": "0",
             "nama": "Yosevine Henania Aprilianti",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "81",
-            "id_keluarga": "0",
             "nama": "Agus Susilo Riyadi",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "82",
-            "id_keluarga": "0",
             "nama": "Sri Widarti",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "83",
-            "id_keluarga": "0",
             "nama": "Ekaren Kristia W.",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "84",
-            "id_keluarga": "0",
             "nama": "Trifosa Gracia Rianda",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "85",
-            "id_keluarga": "0",
             "nama": "Tabita Aprilianza Rianda",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "86",
-            "id_keluarga": "0",
             "nama": "Sabar Juliko",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "87",
-            "id_keluarga": "0",
             "nama": "Kristiati Marikaningrum",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "88",
-            "id_keluarga": "0",
             "nama": "Hari",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "89",
-            "id_keluarga": "0",
             "nama": "Supranti",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "90",
-            "id_keluarga": "0",
             "nama": "Joko Purnomo",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "91",
-            "id_keluarga": "0",
             "nama": "Supriyanto",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "92",
-            "id_keluarga": "0",
             "nama": "Rita",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "93",
-            "id_keluarga": "0",
             "nama": "Yudistira Prita Atmaja",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "94",
-            "id_keluarga": "0",
             "nama": "Berlian",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "95",
-            "id_keluarga": "0",
             "nama": "Kinanti",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Sambirejo Kec. Gabus"
         },
         {
             "id": "96",
-            "id_keluarga": "0",
             "nama": "Abdul Achmad",
             "jeniskelamin": "Pria",
             "alamat": "Ds. Gabus Kec. Gabus"
         },
         {
             "id": "97",
-            "id_keluarga": "0",
             "nama": "Etty Luwiharti",
             "jeniskelamin": "Wanita",
             "alamat": "Ds. Gabus Kec. Gabus"
